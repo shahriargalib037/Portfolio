@@ -1,5 +1,5 @@
 body{
-    background-image: url("/360_F_336279981_xAKnbMOY8Rerdqir6pvL4hGn8GRR8OYv.jpg");
+    background-image: url("https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg?semt=ais_hybrid&w=740");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -38,7 +38,7 @@ a{
     color: rgb(203, 198, 90);
     transition: width 2s;
 }
-a:hover{
+a: hover{
     text-decoration: none;
     color: wheat;
     width: 100px;
